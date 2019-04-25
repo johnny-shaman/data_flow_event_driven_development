@@ -1,0 +1,26 @@
+{
+  "name": "dfed",
+  "version": "0.0.0",
+  "description": "Data Flow Event Driven abstruct class on client side",
+  "main": "dfed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnny-shaman/data_flow_event_driven_development.git"
+  },
+  "keywords": [
+    "Event",
+    "this",
+    "objective",
+    "component",
+    "componentable"
+  ],
+  "author": "Noboru Okazaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnny-shaman/data_flow_event_driven_development/issues"
+  },
+  "homepage": "https://github.com/johnny-shaman/data_flow_event_driven_development#readme"
+}
